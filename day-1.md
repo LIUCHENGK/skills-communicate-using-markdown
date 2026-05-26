@@ -1,4 +1,7 @@
 theme: minima
+title: 我的GitHub博客
+author: leo
+description: 这是我学习GitHub建的网站
 # Daily Learning
 ## Morning Planning
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
